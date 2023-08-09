@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QR Attendance System</string>
+
+    <string-array name="district">
+        <item>Select District</item>
+        <item>Kokrajhar</item>
+        <item>Udalguri</item>
+        <item>Baksa</item>
+        <item>Chirang</item>
+        <item>Tamulpur</item>
+    </string-array>
+
+
+</resources>

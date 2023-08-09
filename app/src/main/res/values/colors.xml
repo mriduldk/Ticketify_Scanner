@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#1DA1F2</color>
+    <color name="colorPrimaryLightDark">#0074BC</color>
+    <color name="colorPrimaryDark">#1d37f2</color>
+    <color name="colorAccent">#f21da2</color>
+    <!--<color name="colorPrimary">#F3AE49</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#166ED2</color>-->
+
+    <color name="bgColorDark">#DAD9D9</color>
+    <color name="bgColor">#FFFFFF</color>
+    <color name="bgColor2">#FFADAD</color>
+    <!--    <color name="bgColor3">#FFEFE7</color>-->
+    <color name="bgColor3">#E2F1FA</color>
+
+    <color name="color_divider">#DDDDDD</color>
+    <color name="colorLogoutRed">#F44336</color>
+    <color name="colorPrimaryTransparent">#79FF9800</color>
+
+
+    <color name="textColor">#2C2C2C</color>
+    <color name="subTextColor">#444444</color>
+    <color name="subSubTextColor">#6E6E6E</color>
+    <color name="green">#4CAF50</color>
+
+    <color name="colorBlue">#03A9F4</color>
+    <color name="colorBlueDark">#039BDF</color>
+    <color name="blue">#03A9F4</color>
+    <color name="blueParse">#AFE6FF</color>
+
+    <color name="colorDelivered">#4CBC8B</color>
+    <color name="colorConfirmed">#3DB2FF</color>
+    <color name="colorPickedUp">#3B185F</color>
+    <color name="colorCancel">#911F27</color>
+    <color name="colorReject">#FF2442</color>
+    <color name="colorPlaced">#FF9800</color>
+    <color name="redText">#BD290F</color>
+
+    <color name="colorPrimaryLight">#564DB5F4</color>
+
+
+
+    <color name="colorPrimaryDarkShade">#213752</color>
+    <color name="colorPrimaryDarkShadeDisabled">#31465F</color>
+
+    <color name="colorGrey">#AEAEB0</color>
+    <color name="grey">#3E3E3E</color>
+    <color name="red">#e36841</color>
+    <color name="darkRed">#dd1b12</color>
+
+    <color name="colorLightGrey">#E1E1E1</color>
+
+    <color name="colorBlackText">#202027</color>
+
+    <color name="colorGrayUnderline">#CACACA</color>
+    <!--    <color name="colorBackground">#FAFAFA</color>-->
+
+    <color name="colorAlertRed">#ED344E</color>
+    <color name="orange">#FF9800</color>
+    <color name="orangeDark">#AF6800</color>
+
+    <color name="colorVeg">#008000</color>
+
+    <color name="colorBackground">#DFDFDF</color>
+    <color name="offerCardBackground">#E3F5FF</color>
+    <color name="divider">#E1E1E1</color>
+    <color name="divider2">#BCBCBC</color>
+    <color name="colorLightBackground">#F8F8F8</color>
+
+    <color name="gradient_orange_start">#FBBA59</color>
+    <color name="gradient_orange_end">#ED8D00</color>
+
+
+    <color name="background_gradient_end_color">#FBB3BC</color>
+    <color name="background_gradient_start_color">#FFDDAC</color>
+
+    <color name="colorSnackBar">#292b2c</color>
+
+
+    <color name="colorInfo">#5bc0de</color>
+    <color name="colorInfoDisabled">#B55BC0DE</color>
+    <color name="colorBgPrimary">#0275d8</color>
+    <color name="colorSuccess">#5cb85c</color>
+    <color name="colorWaring">#f0ad4e</color>
+    <color name="colorDanger">#d9534f</color>
+    <color name="colorInverse">#292b2c</color>
+    <color name="colorFaded">#f7f7f7</color>
+
+
+    <!--  FOR TABLE VIEW  -->
+
+    <color name="bg_line">#E7E7E7</color>
+    <color name="cell_background_color">#ffffff</color>
+    <!--    <color name="header_line_color">@android:color/holo_red_light</color>-->
+    <color name="header_line_color">@color/blue</color>
+    <color name="table_view_default_text_color">#0a0a0a</color>
+    <color name="colorInfoLight">#755BC0DE</color>
+
+
+
+</resources>
